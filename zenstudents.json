@@ -67,62 +67,62 @@
       "array": 308,
       "mathematics": 50,
     },
-    attendance: "ALL DAYS PRESENT",
-    attendancePercentage: "100%",
-    absent: false,
-    taskSubmitted: true,
-    taskSubmittedOn: "22-OCT-2020",
-    mentors: ["RAJAVASANTHAN", "VIDHYA"]
+    "attendance": "ALL DAYS PRESENT",
+    "attendancePercentage": "100%",
+    "absent": false,
+    "taskSubmitted": true,
+    "taskSubmittedOn": "22-OCT-2020",
+    "mentors": ["RAJAVASANTHAN", "VIDHYA"]
   },
   {
-    id: "4",
-    user: "KALAI",
-    companyDrives: {
-      october1to14: ["PHYSIO", "FRACTURE"],
-      october15to31: ["RVSCAS", "SULUR"],
+    "id": "4",
+    "user": "KALAI",
+    "companyDrives": {
+      "october1to14": ["PHYSIO", "FRACTURE"],
+      "october15to31": ["RVSCAS", "SULUR"],
     },
-    october: {
-      topics: ["JS", "EXPRESS"],
-      tasks: ["LOOPING", "INSTALL"],
+    "october": {
+      "topics": ["JS", "EXPRESS"],
+      "tasks": ["LOOPING", "INSTALL"],
     },
-    placementAppeared: true,
-    codekata: {
-      inputOutput: 12,
-      absoluteBeginner: 30,
-      array: 30,
-      mathematics: 50,
+    "placementAppeared": true,
+    "codekata": {
+      "inputOutput": 12,
+      "absoluteBeginner": 30,
+      "array": 30,
+      "mathematics": 50,
     },
-    attendance: "ALL DAYS PRESENT",
-    attendancePercentage: "100%",
-    absent: false,
-    taskSubmitted: true,
-    taskSubmittedOn: "24-OCT-2020",
-    mentors: ["RAJAVASANTHAN", "VIDHYA", "SAI MOHAN"]
+    "attendance": "ALL DAYS PRESENT",
+    "attendancePercentage": "100%",
+    "absent": false,
+    "taskSubmitted": true,
+    "taskSubmittedOn": "24-OCT-2020",
+    "mentors": ["RAJAVASANTHAN", "VIDHYA", "SAI MOHAN"]
   },
   {
-    id: "5",
-    user: "GURU",
-    companyDrives: {
-      october1to14: ["AYURVEDHA", "LEAVES"],
-      october15to31: ["KUMARAN", "KIT"],
+    "id": "5",
+    "user": "GURU",
+    "companyDrives": {
+      "october1to14": ["AYURVEDHA", "LEAVES"],
+      "october15to31": ["KUMARAN", "KIT"],
     },
-    october: {
-      topics: ["NODE", "REACT"],
-      tasks: ["FILE", "SYSTEM"],
+    "october": {
+      "topics": ["NODE", "REACT"],"
+      "tasks": ["FILE", "SYSTEM"],
     },
-    placementAppeared: false,
-    codekata: {
-      inputOutput: 12,
-      absoluteBeginner: 10,
-      array: 32,
-      mathematics: 0,
+    "placementAppeared": false,
+    "codekata": {
+      "inputOutput": 12,
+      "absoluteBeginner": 10,
+      "array": 32,
+      "mathematics": 0,
     },
-    attendance: "ABSENT ON 17,18,20,24",
-    absent: true,
-    attendancePercentage: "82%",
-    taskSubmitted: false,
-    taskSubmittedOn: "01-NOV-2020",
-    mentors: ["RAJAVASANTHAN"]
+    "attendance": "ABSENT ON 17,18,20,24",
+    "absent": true,
+    "attendancePercentage": "82%",
+    "taskSubmitted": false,
+    "taskSubmittedOn": "01-NOV-2020",
+    "mentors": ["RAJAVASANTHAN"]
   },
   {
     id: "6",
