@@ -60,12 +60,12 @@
       "topics": ["HTML", "CSS"],
       "tasks": ["CLIENT", "CONNECT DESIGN"],
     },
-    placementAppeared: true,
-    codekata: {
-      inputOutput: 121,
-      absoluteBeginner: 30,
-      array: 308,
-      mathematics: 50,
+    "placementAppeared": true,
+    "codekata": {
+      "inputOutput": 121,
+      "absoluteBeginner": 30,
+      "array": 308,
+      "mathematics": 50,
     },
     attendance: "ALL DAYS PRESENT",
     attendancePercentage: "100%",
