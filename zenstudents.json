@@ -107,7 +107,7 @@
       "october15to31": ["KUMARAN", "KIT"],
     },
     "october": {
-      "topics": ["NODE", "REACT"],"
+      "topics": ["NODE", "REACT"],
       "tasks": ["FILE", "SYSTEM"],
     },
     "placementAppeared": false,
