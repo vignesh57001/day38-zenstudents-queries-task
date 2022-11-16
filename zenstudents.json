@@ -15,7 +15,7 @@
       "inputOutput": 10,
       "absoluteBeginner": 30,
       "array": 300,
-      "mathematics"": 40,
+      "mathematics": 40,
     },
     "attendance": "ALL DAYS PRESENT",
     "absent": false,
@@ -50,15 +50,15 @@
     "mentors": ["RAJAVASANTHAN", "SAI MOHAN"]
   },
   {
-    id: "3",
-    user: "VISWA",
-    companyDrives: {
-      october1to14: ["PROPEL", "CARGO"],
-      october15to31: ["PEPS", "SANDFITS"],
+    "id": "3",
+    "user": "VISWA",
+    "companyDrives": {
+      "october1to14": ["PROPEL", "CARGO"],
+      "october15to31": ["PEPS", "SANDFITS"],
     },
-    october: {
-      topics: ["HTML", "CSS"],
-      tasks: ["CLIENT", "CONNECT DESIGN"],
+    "october": {
+      "topics": ["HTML", "CSS"],
+      "tasks": ["CLIENT", "CONNECT DESIGN"],
     },
     placementAppeared: true,
     codekata: {
